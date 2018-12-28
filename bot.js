@@ -57,27 +57,9 @@ var channel = "523534835910967306";//ايدي الروم
     client7.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
-client8.on('ready', async() => {
-var server = "523298781857579009"; // ايدي السررفر
-var channel = "523534835910967306";//ايدي الروم
-    setInterval(()=>{
-    client8.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
-    },305);
-})
-client9.on('ready', async() => {
-var server = "523298781857579009"; // ايدي السررفر
-var channel = "523534835910967306";//ايدي الروم
-    setInterval(()=>{
-    client9.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
-    },305);
-})
-client10.on('ready', async() => {
-var server = "523298781857579009"; // ايدي السررفر
-var channel = "523534835910967306";//ايدي الروم
-    setInterval(()=>{
-    client10.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
-    },305);
-})
+
+
+
 client.login(process.env.BOT_TOKEN);
 client2.login(process.env.BOT_TOKEN2);
 client3.login(process.env.BOT_TOKEN3);
